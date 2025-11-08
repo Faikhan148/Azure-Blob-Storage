@@ -1,0 +1,7 @@
+Step 1.
+
+Search Bar -> Storage account -> Create -> Resource group -> Storage account name -> Redundancy(LRS) -> Create
+
+Step 2.
+
+Overview -> Capabilities -> Static Website -> Enabled -> Index document name(index.html) -> Upload all files and folders of the application -> Copy URL
